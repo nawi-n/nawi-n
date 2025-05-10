@@ -17,7 +17,6 @@
 
 # 💫 About Me
 
-## 👋 Hi, I'm Nawin
 
 I'm a **Backend & AI/ML Systems Developer** passionate about building scalable, impactful systems and crafting AI-driven solutions. I specialize in designing robust APIs, deploying cloud architectures, and integrating intelligent systems like **AI agents** and **RAG chatbots**.
 
