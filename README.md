@@ -1,5 +1,30 @@
-# 💫 About Me:
-## Hi, I'm Nawin 👋<br><br>I'm a **Backend & AI/ML Systems Developer** passionate about building scalable, impactful systems and crafting AI-driven solutions. I specialize in designing robust APIs, deploying cloud architectures, and integrating intelligent systems like AI agents and RAG chatbots.<br><br>🌍 I'm from India  <br>📫 Reach me at **nawinr.ofc@gmail.com**<br><br>---<br><br>### 💻 My Development Arsenal:<br>•  Backend Development  <br>•  AI/ML Systems & Optimization  <br>•  API Design & Deployment  <br>•  Cloud Solutions (GCP)  <br>•  AI Agents & RAG Chatbots  <br><br>---<br><br>### 🚀 I'm Currently Working On:<br>• Enhancing ML pipelines for real-time enterprise tools  <br>• Developing scalable AI/ML products with cloud-first architecture  <br>• Building intelligent agents to automate complex workflows  <br><br>---<br><br>🌟 *Building the Future, One Line at a Time*<br>
+# 💫 About Me
+
+## 👋 Hi, I'm Nawin
+
+I'm a **Backend & AI/ML Systems Developer** passionate about building scalable, impactful systems and crafting AI-driven solutions. I specialize in designing robust APIs, deploying cloud architectures, and integrating intelligent systems like **AI agents** and **RAG chatbots**.
+
+📫 Reach me at **nawinr.ofc@gmail.com**
+
+---
+
+### 💻 My Development Arsenal
+- ⚙️ **Backend Development**  
+- 🧠 **AI/ML Systems & Optimization**  
+- 🧩 **API Design & Deployment**  
+- ☁️ **Cloud Solutions (GCP)**  
+- 🤖 **AI Agents & RAG Chatbots**  
+
+---
+
+### 🚀 I'm Currently Working On
+- 🔄 Enhancing **ML pipelines** for real-time enterprise tools  
+- 🌐 Developing **scalable AI/ML products** with cloud-first architecture  
+- 🧠 Building **intelligent agents** to automate complex workflows  
+
+---
+
+🌟 *Building the Future, One Line at a Time*
 
 
 ## 🌐 Socials:
